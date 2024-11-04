@@ -1,0 +1,24 @@
+﻿<Window x:Class="RecipeShare.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeShare"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="999" Width="1744">
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF00FBFF" Offset="0.091"/>
+                <GradientStop Color="#FF005EFF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Height="94" VerticalAlignment="Top" Width="368" FontSize="24" FontFamily="Bahnschrift Light" Click="LoginButton_Click" Margin="1022,488,0,0"/>
+        <Label x:Name="LabelName" Content="Name" HorizontalAlignment="Left" Height="63" Margin="369,265,0,0" VerticalAlignment="Top" Width="423" HorizontalContentAlignment="Center" FontSize="36"/>
+        <Label x:Name="PasswordLabel" Content="Password" HorizontalAlignment="Left" Height="69" Margin="968,265,0,0" VerticalAlignment="Top" Width="440" FontSize="36" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="UsernameTextBox" HorizontalAlignment="Left" Height="72" Margin="370,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="461" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="18"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="73" Margin="968,334,0,0" VerticalAlignment="Top" Width="463" RenderTransformOrigin="0.493,0.495" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="CreateUserButton" Content="Create User" HorizontalAlignment="Left" Height="96" Margin="413,488,0,0" VerticalAlignment="Top" Width="356" FontSize="20" Click="CreateUserButton_Click"/>
+        <Label Content="Recipe-Share Secure User Login" Height="81" Margin="580,49,0,0" Width="694" FontSize="48" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>
