@@ -13,7 +13,7 @@
                 <GradientStop Color="#FF005EFF" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Height="94" VerticalAlignment="Top" Width="368" FontSize="24" FontFamily="Bahnschrift Light" Click="LoginButton_Click" Margin="1022,488,0,0"/>
+        <Button x:Name="LoginButton" Content="Login User" HorizontalAlignment="Left" Height="94" VerticalAlignment="Top" Width="368" FontSize="24" FontFamily="Bahnschrift Light" Click="LoginButton_Click" Margin="1022,488,0,0"/>
         <Label x:Name="LabelName" Content="Enter Name" HorizontalAlignment="Left" Height="63" Margin="369,265,0,0" VerticalAlignment="Top" Width="423" HorizontalContentAlignment="Center" FontSize="36" FontFamily="Alef"/>
         <Label x:Name="PasswordLabel" Content="Enter Password" HorizontalAlignment="Left" Height="69" Margin="968,265,0,0" VerticalAlignment="Top" Width="440" FontSize="36" HorizontalContentAlignment="Center" FontFamily="Alef"/>
         <TextBox x:Name="UsernameTextBox" HorizontalAlignment="Left" Height="72" Margin="370,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="461" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="18"/>
