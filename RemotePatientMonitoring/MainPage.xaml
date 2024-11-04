@@ -15,9 +15,9 @@
         <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30" Foreground="White" Margin="0,131,0,0">
       Where Communities Come To Eat
         </TextBlock>
-        <Button x:Name="ProfilePage" Content="My Profile" HorizontalAlignment="Left" Height="60" Margin="254,509,0,0" VerticalAlignment="Top" Width="193" FontSize="20" BorderBrush="#FF00FFEB" Click="ProfilePage_Click"/>
-        <Button x:Name="MainContentButton" Content="I'm Hungrey Now!" HorizontalAlignment="Center" Height="73" Margin="0,291,0,0" VerticalAlignment="Top" Width="236" FontSize="20" BorderBrush="#FFFF001B" Click="MainPageUser_Click"/>
-        <Button x:Name="SettingPage" Content="Settings" HorizontalAlignment="Right" Height="60" Margin="0,509,262,0" VerticalAlignment="Top" Width="195" BorderBrush="#FF00FBFF" FontSize="20" Click="SettingPage_Click"/>
-        <Button x:Name="UploadPage" Content="Uploads" HorizontalAlignment="Center" Margin="0,509,0,0" VerticalAlignment="Top" Height="60" Width="190"  BorderBrush="#FF00FBFF" FontSize="22" Click="UploadPage_Click"/>
+        <Button x:Name="ProfilePage" Content="My Profile" HorizontalAlignment="Left" Height="60" Margin="254,509,0,0" VerticalAlignment="Top" Width="193" FontSize="20" BorderBrush="#FF00FFEB" Click="ProfilePage_Click" FontFamily="Alef"/>
+        <Button x:Name="MainContentButton" Content="I'm Hungrey Now!" HorizontalAlignment="Center" Height="73" Margin="0,291,0,0" VerticalAlignment="Top" Width="236" FontSize="24" BorderBrush="#FFFF001B" Click="MainPageUser_Click" FontFamily="Alef"/>
+        <Button x:Name="SettingPage" Content="Settings" HorizontalAlignment="Right" Height="60" Margin="0,509,262,0" VerticalAlignment="Top" Width="195" BorderBrush="#FF00FBFF" FontSize="20" Click="SettingPage_Click" FontFamily="Alef"/>
+        <Button x:Name="UploadPage" Content="Uploads" HorizontalAlignment="Center" Margin="0,509,0,0" VerticalAlignment="Top" Height="60" Width="190"  BorderBrush="#FF00FBFF" FontSize="22" Click="UploadPage_Click" FontFamily="Alef"/>
     </Grid>
 </Window>
