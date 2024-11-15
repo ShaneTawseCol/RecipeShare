@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mainpage.xaml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("recipeimages/vector-group-people-icon.jpg")]
 
 

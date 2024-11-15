@@ -9,15 +9,20 @@
                 <GradientStop Color="#FF00D4FF" Offset="0.898"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="40" Foreground="White" Margin="0,38,0,0">
-            Welcome to the Recipe-Share Application
-        </TextBlock>
-        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30" Foreground="White" Margin="0,131,0,0">
-      Where Communities Come To Eat
-        </TextBlock>
-        <Button x:Name="ProfilePage" Content="My Profile" HorizontalAlignment="Left" Height="60" Margin="254,509,0,0" VerticalAlignment="Top" Width="193" FontSize="20" BorderBrush="#FF00FFEB" Click="ProfilePage_Click" FontFamily="Alef"/>
-        <Button x:Name="MainContentButton" Content="I'm Hungrey Now!" HorizontalAlignment="Center" Height="73" Margin="0,291,0,0" VerticalAlignment="Top" Width="236" FontSize="24" BorderBrush="#FFFF001B" Click="MainPageUser_Click" FontFamily="Alef"/>
-        <Button x:Name="SettingPage" Content="Settings" HorizontalAlignment="Right" Height="60" Margin="0,509,262,0" VerticalAlignment="Top" Width="195" BorderBrush="#FF00FBFF" FontSize="20" Click="SettingPage_Click" FontFamily="Alef"/>
-        <Button x:Name="UploadPage" Content="Uploads" HorizontalAlignment="Center" Margin="0,509,0,0" VerticalAlignment="Top" Height="60" Width="190"  BorderBrush="#FF00FBFF" FontSize="22" Click="UploadPage_Click" FontFamily="Alef"/>
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/1000_F_549967074_1pyqanI4qIWhTcp0SX2azujGtBH8lgwq.png" Margin="-222,-110,-386,-416" />
+
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="40" Foreground="White" Margin="304,24,0,0"><Run Text="Welcome to the Recipe-Share Application"/></TextBlock>
+        <Rectangle HorizontalAlignment="Left" Height="729" Stroke="Black" VerticalAlignment="Center" Width="223" Fill="#FF9BD2EF"/>
+        <Button x:Name="MainContentButton" Content="I'm Hungry Now!" HorizontalAlignment="Left" Height="54" Margin="7,311,0,0" VerticalAlignment="Top" Width="208" FontSize="24" BorderBrush="#FFFF001B" Click="MainPageUser_Click" FontFamily="Alef"/>
+        <Button x:Name="ProfilePage" Content="My Profile" HorizontalAlignment="Left" Height="60" Margin="16,396,0,0" VerticalAlignment="Top" Width="192" FontSize="20" BorderBrush="#FF00FFEB" Click="ProfilePage_Click" FontFamily="Alef"/>
+        <Button x:Name="UploadPage" Content="Uploads" HorizontalAlignment="Left" Margin="16,488,0,0" VerticalAlignment="Top" Height="60" Width="190"  BorderBrush="#FF00FBFF" FontSize="22" Click="UploadPage_Click" FontFamily="Alef"/>
+        <Button x:Name="SettingPage" Content="Settings" HorizontalAlignment="Left" Height="60" Margin="16,584,0,0" VerticalAlignment="Top" Width="190" BorderBrush="#FF00FBFF" FontSize="20" Click="SettingPage_Click" FontFamily="Alef"/>
+        <Rectangle HorizontalAlignment="Left" Height="83" Margin="223,599,0,0" Stroke="Black" VerticalAlignment="Top" Width="1536" Fill="#FF9BD2EF"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="30" Foreground="#FF0726ED" Margin="715,601,0,0" Width="449" VerticalAlignment="Top"><Run Text="Where Communities Come To Eat"/></TextBlock>
+
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/Blank diagram - Page 4 (13).png" Margin="60,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="67" />
+        <Rectangle HorizontalAlignment="Left" Height="130" Margin="18,125,0,0" Stroke="Black" VerticalAlignment="Top" Width="199" Fill="#FFF8F6F6"/>
+        
+
     </Grid>
 </Window>

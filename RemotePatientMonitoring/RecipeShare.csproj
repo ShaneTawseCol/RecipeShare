@@ -147,6 +147,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RecipeImages\1000_F_549967074_1pyqanI4qIWhTcp0SX2azujGtBH8lgwq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RecipeImages\Blank diagram - Page 4 %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RecipeImages\keyslock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RecipeImages\vector-group-people-icon.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
