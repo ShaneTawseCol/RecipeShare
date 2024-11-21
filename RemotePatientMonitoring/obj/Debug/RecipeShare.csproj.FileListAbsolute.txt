@@ -66,3 +66,71 @@ C:\Users\Shane\Documents\Software Development Project 1\FinalProjectProgressMoni
 C:\Users\Shane\Documents\Software Development Project 1\FinalProjectProgressMonitoring1\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RecipeSh.4667582B.Up2Date
 C:\Users\Shane\Documents\Software Development Project 1\FinalProjectProgressMonitoring1\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.exe
 C:\Users\Shane\Documents\Software Development Project 1\FinalProjectProgressMonitoring1\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.pdb
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.AssemblyReference.cache
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainPage.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainPage.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainPageUser.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainWindow.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\ProfilePage.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\SettingPage.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\UploadPage.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\App.g.cs
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring_MarkupCompile.cache
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring_MarkupCompile.lref
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.exe
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.pdb
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.exe.config
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.exe
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.pdb
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\EntityFramework.dll
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\EntityFramework.xml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainPageUser.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\MainWindow.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\ProfilePage.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\SettingPage.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\UploadPage.baml
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.g.resources
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.Properties.Resources.resources
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.GenerateResource.cache
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.CoreCompileInputs.cache
+C:\Users\Amy_v\Desktop\RecipeShare-main\RecipeShare-main\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.CopyComplete
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.exe.config
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.exe
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\RemotePatientMonitoring.pdb
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\EntityFramework.dll
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.dll
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\EntityFramework.xml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\bin\Debug\System.Data.SQLite.xml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainPage.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainPage.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainPageUser.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainWindow.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\ProfilePage.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\SettingPage.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\UploadPage.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\App.g.cs
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring_MarkupCompile.cache
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring_MarkupCompile.lref
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainPageUser.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\MainWindow.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\ProfilePage.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\SettingPage.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\UploadPage.baml
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.g.resources
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.Properties.Resources.resources
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.GenerateResource.cache
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RecipeShare.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RecipeSh.4667582B.Up2Date
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.exe
+C:\Users\Shane\Documents\Software Development Project 1\AmyGit\RemotePatientMonitoring\obj\Debug\RemotePatientMonitoring.pdb
