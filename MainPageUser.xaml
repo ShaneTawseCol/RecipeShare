@@ -9,14 +9,14 @@
     <ScrollViewer VerticalScrollBarVisibility="Auto">
         <StackPanel Margin="20">
 
-            <!-- Welcome Message -->
+            
             <TextBlock Text="Welcome to Recipe-Share!" 
                        FontSize="32" FontWeight="Bold" 
                        Foreground="Black" 
                        HorizontalAlignment="Center" 
                        Margin="0,20,0,20"/>
 
-            <!-- Image Grid -->
+            
             <UniformGrid Rows="2" Columns="3" Margin="0,10,0,10">
                 <Image Source="/RecipeImages/vegetarian-meal-of-vegetable-pizza-and-green-salad-B5GG5P.jpg" 
                        Width="250" Height="150" Margin="5" Stretch="UniformToFill"/>
@@ -33,27 +33,14 @@
                 
             </UniformGrid>
 
-            <!-- Category Buttons -->
+            
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
                 <Button Content="Desserts" Width="120" Height="50" Background="#FF69B4" Foreground="White" Margin="10"/>
                 <Button Content="Vegan" Width="120" Height="50" Background="#7FFF00" Foreground="White" Margin="10"/>
                 <Button Content="Quick Meals" Width="120" Height="50" Background="#FFD700" Foreground="White" Margin="10"/>
             </StackPanel>
 
-            <!-- Recipe of the Day -->
-            <!--StackPanel Margin="0,20,0,20">
-                <TextBlock Text="🍲 Featured Recipe of the Day" FontSize="24" Foreground="White"/>
-                <Border BorderBrush="White" BorderThickness="2" CornerRadius="10" Padding="10" Margin="0,10,0,10">
-                    <StackPanel>
-                        <Image Source="/RecipeImages/spaghetti-carbonara.jpg" Height="150" Stretch="Uniform"/>
-                        <TextBlock Text="Spaghetti Carbonara" FontSize="20" FontWeight="Bold" Foreground="Black"/>
-                        <TextBlock Text="A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper." Foreground="Black" Margin="0,5,0,5"/>
-                        <Button Content="View Full Recipe" Width="150" Click="ViewFeaturedRecipe_Click"/>
-                    </StackPanel>
-                </Border>
-            </StackPanel-->
-
-            <!-- Community Picks -->
+            
             <StackPanel Margin="0,20,0,20">
                 <TextBlock Text="👥 Community Picks" FontSize="24" Foreground="Black"/>
                 <ListBox Name="CommunityFeedList" Height="100" Background="#F0F8FF" Margin="0,10,0,0">
@@ -63,7 +50,7 @@
                 </ListBox>
             </StackPanel>
 
-            <!-- Navigation Buttons -->
+            
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,20">
                 <Button Content="Profile" Width="120" Height="50" Background="#4CAF50" Foreground="White" Click="GoToProfile_Click" Margin="10"/>
                 <Button Content="Settings" Width="120" Height="50" Background="#2196F3" Foreground="White" Click="GoToSettings_Click" Margin="10"/>
