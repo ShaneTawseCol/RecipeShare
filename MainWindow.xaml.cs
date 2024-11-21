@@ -142,6 +142,5 @@ namespace RecipeShare
                 sqliteConnection.Close();
             }
         }
-
     }
 }
