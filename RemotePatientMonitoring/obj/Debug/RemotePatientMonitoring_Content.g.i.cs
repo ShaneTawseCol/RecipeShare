@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("recipeimages/vector-group-people-icon.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("recipeimages/publicidad-graciosa-con-perros-16.jpg")]
 
 

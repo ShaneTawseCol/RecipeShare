@@ -34,8 +34,11 @@
             </Button.Background>
         </Button>
         <Label Content="Recipe-Share Secure User Login" Height="113" Margin="445,46,0,0" Width="974" FontSize="72" VerticalAlignment="Top" HorizontalAlignment="Left" FontFamily="Amiri"/>
-        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/vector-group-people-icon.jpg" Margin="290,335,1367,582" />
-        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/keyslock.png" Margin="896,335,776,582" />
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/vector-group-people-icon.jpg" Margin="285,334,1372,583" />
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/keyslock.png" Margin="891,335,781,582" />
+        <TextBox HorizontalAlignment="Left" Height="57" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="58" Margin="14,107,0,0" VerticalAlignment="Top" Width="148" RenderTransformOrigin="7.454,0.631" IsEnabled="False"/>
+        <Label Content="ADMIN" HorizontalAlignment="Left" Height="30" Margin="12,72,0,0" VerticalAlignment="Top" Width="150" FontSize="16" FontFamily="Amiri"/>
 
     </Grid>
 </Window>

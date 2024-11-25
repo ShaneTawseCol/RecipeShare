@@ -42,6 +42,6 @@ namespace RecipeShare
             this.Close();// Navigates to Page5
         }
 
-        //private void MyVideo_MediaEnded(object sender, RoutedEventArgs e) { MyVideo.Position = TimeSpan.Zero; MyVideo.Play(); }//Future ADS
+        
     }
 }
