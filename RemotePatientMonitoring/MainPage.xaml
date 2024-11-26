@@ -9,9 +9,9 @@
                 <GradientStop Color="#FF00D4FF" Offset="0.898"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/1000_F_549967074_1pyqanI4qIWhTcp0SX2azujGtBH8lgwq.png" Margin="-123,-110,-314,-99" />
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/1000_F_549967074_1pyqanI4qIWhTcp0SX2azujGtBH8lgwq.png" Margin="-123,-316,-334,-99" />
 
-        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="40" Foreground="White" Margin="408,-10,0,0" FontWeight="Bold"><Run Text="Welcome to the Recipe-Share Application"/></TextBlock>
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="40" Foreground="White" Margin="508,-10,0,0" FontWeight="Bold"><Run Text="Welcome to the Recipe-Share Application"/></TextBlock>
         <Rectangle HorizontalAlignment="Left" Height="812" Stroke="Black" VerticalAlignment="Center" Width="231" Fill="#FF9BD2EF"/>
         <Button x:Name="MainContentButton" Content="I'm Hungry Now!" HorizontalAlignment="Left" Height="54" Margin="16,257,0,0" VerticalAlignment="Top" Width="208" FontSize="24" BorderBrush="#FFFF001B" Click="MainPageUser_Click" FontFamily="Alef"/>
         <Button x:Name="ProfilePage" Content="My Profile" HorizontalAlignment="Left" Height="60" Margin="16,359,0,0" VerticalAlignment="Top" Width="192" FontSize="20" BorderBrush="#FF00FFEB" Click="ProfilePage_Click" FontFamily="Alef"/>
@@ -21,7 +21,7 @@
 
         <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/Blank diagram - Page 4 (13).png" Margin="60,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="67" />
         <Rectangle HorizontalAlignment="Left" Height="130" Margin="16,99,0,0" Stroke="Black" VerticalAlignment="Top" Width="199" Fill="#FFF8F6F6"/>
-        <Rectangle HorizontalAlignment="Left" Height="124" Margin="0,650,0,0" VerticalAlignment="Top" Width="394" RenderTransformOrigin="0.5,0.5" Stroke="Black" Fill="#FF5D95E3">
+        <Rectangle HorizontalAlignment="Left" Height="46" Margin="231,604,0,0" VerticalAlignment="Top" Width="394" RenderTransformOrigin="0.5,0.5" Stroke="Black" Fill="#FF5D95E3">
             <Rectangle.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="-1"/>
@@ -31,7 +31,7 @@
                 </TransformGroup>
             </Rectangle.RenderTransform>
         </Rectangle>
-        <Label Content="Where Communties Come To Eat" HorizontalAlignment="Left" Height="121" Margin="20,692,0,0" VerticalAlignment="Top" Width="342" FontSize="20" Foreground="#FFE9E9EE" FontWeight="Bold"/>
+        <Label Content="Where Communties Come To Eat" HorizontalAlignment="Left" Height="43" Margin="236,607,0,0" VerticalAlignment="Top" Width="342" FontSize="20" Foreground="#FFE9E9EE" FontWeight="Bold"/>
 
 
     </Grid>
