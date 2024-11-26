@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RecipeShare"
         mc:Ignorable="d"
-        Title="SettingPage" Height="450" Width="800">
+        Title="Profile Page" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -13,5 +13,21 @@
                 <GradientStop Color="#FF00D4FF" Offset="0.898"/>
             </LinearGradientBrush>
         </Grid.Background>
+
+        <StackPanel Margin="20">
+
+            <TextBlock Text="Profile Page" FontSize="32" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center"/>
+            <Button Content="Go to Home" HorizontalAlignment="Left" Margin="0,10,0,0" Padding="10" Width="120" Click="GoToHomePage_Click"/>
+            <TextBlock Text="Preferences" FontSize="24" FontWeight="SemiBold" Foreground="White" Margin="0,20,0,5"/>
+            <StackPanel Orientation="Vertical">
+                <CheckBox Content="Vegetarian" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Content="Vegan" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Content="Gluten-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Content="Dairy-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Content="Nut-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+            </StackPanel>
+            
+            <Button Content="Save Preferences" HorizontalAlignment="Left" Margin="0,20,0,0" Padding="10" Width="109" Click="SavePreferences_Click"/>
+        </StackPanel>
     </Grid>
 </Window>
