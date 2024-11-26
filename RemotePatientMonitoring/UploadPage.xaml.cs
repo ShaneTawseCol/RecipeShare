@@ -1,27 +1,49 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace RecipeShare
 {
     /// <summary>
-    /// Interaction logic for UploadPage.xaml
+    /// Interaction logic for RecipeUploadPage.xaml
     /// </summary>
-    public partial class UploadPage : Window
+    public partial class RecipeUploadPage : Window
     {
-        public UploadPage()
+        public RecipeUploadPage()
         {
             InitializeComponent();
+        }
+
+        public void btnUpload_Click(object sender, RoutedEventArgs e)
+        {
+            string filename = FileNameTextBox.Text;
+            
+                if (File.Exists(filename))
+            {
+                string name = Path.GetFileName(filename);
+                string destinationFilename = Path.Combine("C:\\temp\\uploaded files\\", name);
+
+                if (File.Exists(destinationFilename))
+                {
+                    MessageBox.Show("Destination file already uploaded.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+
+                try
+                {
+                    File.Copy(filename, destinationFilename);
+                    MessageBox.Show("File has been successfully copied.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Source file does not exist.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }

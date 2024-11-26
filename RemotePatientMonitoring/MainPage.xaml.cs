@@ -37,7 +37,7 @@ namespace RecipeShare
 
         private void UploadPage_Click(object sender, RoutedEventArgs e)
         {
-            UploadPage upload = new UploadPage();
+            RecipeUploadPage upload = new RecipeUploadPage();
             upload.Show();
             this.Close();// Navigates to Page5
         }
