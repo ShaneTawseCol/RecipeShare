@@ -31,7 +31,6 @@
             Content="Email Notifications:"
             FontWeight="Bold"
             Foreground="#FFFBF8F8" />
-
         <Label
             Margin="438,88,0,0"
             HorizontalAlignment="Left"
