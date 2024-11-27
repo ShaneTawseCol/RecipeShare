@@ -120,5 +120,15 @@
             Content="Save Changes"
             FontSize="14"
             FontWeight="Bold" />
+        <Button
+            Width="116"
+            Height="36"
+            Margin="356,325,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click"
+            Content="Main Page"
+            FontSize="14"
+            FontWeight="Bold" />
     </Grid>
 </Window>

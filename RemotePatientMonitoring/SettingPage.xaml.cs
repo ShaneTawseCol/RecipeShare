@@ -24,5 +24,12 @@ namespace RecipeShare
             InitializeComponent();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainPage mainPage = new MainPage();
+            mainPage.Show();
+            this.Close();
+        }
+
     }
 }
