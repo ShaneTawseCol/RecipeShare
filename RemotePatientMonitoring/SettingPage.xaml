@@ -17,7 +17,7 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Label
-            Margin="65,29,0,0"
+            Margin="299,29,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="PUSH NOTIFICATIONS"
@@ -25,7 +25,7 @@
             FontWeight="Bold"
             Foreground="#FFF7F2F2" />
         <Label
-            Margin="65,113,0,0"
+            Margin="299,113,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="Email Notifications:"
@@ -33,14 +33,14 @@
             Foreground="#FFFBF8F8" />
 
         <Label
-            Margin="204,88,0,0"
+            Margin="438,88,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="ON"
             FontWeight="Bold"
             Foreground="#FFF7F5F5" />
         <Label
-            Margin="247,87,0,0"
+            Margin="481,87,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="OFF"
@@ -48,20 +48,20 @@
             Foreground="#FFFBF9F9" />
         <RadioButton
             x:Name="EmailRBOff"
-            Margin="257,118,0,0"
+            Margin="491,118,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
             GroupName="Email" />
         <RadioButton
             x:Name="EmailRBOn"
-            Margin="211,118,0,0"
+            Margin="445,118,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
             GroupName="Email" />
         <Label
-            Margin="65,139,0,0"
+            Margin="299,139,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="Text Notifications:"
@@ -69,20 +69,20 @@
             Foreground="#FFF3F1F1" />
         <RadioButton
             x:Name="TextRbOff"
-            Margin="257,147,0,0"
+            Margin="491,147,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
             GroupName="Text" />
         <RadioButton
             x:Name="TextRbOn"
-            Margin="211,147,0,0"
+            Margin="445,147,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
             GroupName="Text" />
         <Label
-            Margin="64,167,0,0"
+            Margin="298,167,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="Device Notifications:"
@@ -90,14 +90,14 @@
             Foreground="#FFF3F0F0" />
         <RadioButton
             x:Name="DevicebBOff"
-            Margin="257,174,0,0"
+            Margin="491,174,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
             GroupName="Device" />
         <RadioButton
             x:Name="DeviceRbOn"
-            Margin="211,174,0,0"
+            Margin="445,174,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content=""
@@ -106,7 +106,7 @@
         <Rectangle
             Width="284"
             Height="206"
-            Margin="28,19,0,0"
+            Margin="262,19,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Stroke="Black" />
@@ -114,7 +114,7 @@
             x:Name="btn_SaveSettings"
             Width="117"
             Height="36"
-            Margin="301,273,0,0"
+            Margin="355,273,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="Save Changes"
