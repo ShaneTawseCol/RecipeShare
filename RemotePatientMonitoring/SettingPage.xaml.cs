@@ -31,5 +31,9 @@ namespace RecipeShare
             this.Close();
         }
 
+        private void btn_SaveSettings_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Settings saved successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
     }
 }

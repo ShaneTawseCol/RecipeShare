@@ -119,7 +119,8 @@
             VerticalAlignment="Top"
             Content="Save Changes"
             FontSize="14"
-            FontWeight="Bold" />
+            FontWeight="Bold"
+                Click="btn_SaveSettings_Click" />
         <Button
             Width="116"
             Height="36"
