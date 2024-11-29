@@ -37,11 +37,11 @@ namespace RecipeShare
 
         private void UploadPage_Click(object sender, RoutedEventArgs e)
         {
-            UploadPage upload = new UploadPage();
+            RecipeUploadPage upload = new RecipeUploadPage();
             upload.Show();
             this.Close();// Navigates to Page5
         }
 
-        //private void MyVideo_MediaEnded(object sender, RoutedEventArgs e) { MyVideo.Position = TimeSpan.Zero; MyVideo.Play(); }//Future ADS
+        
     }
 }
