@@ -22,6 +22,47 @@ namespace RecipeShare
         public MainPageUser()
         {
             InitializeComponent();
+            LoadCommunityFeed();
+        }
+
+        private void LoadCommunityFeed()
+        {
+            CommunityFeedList.Items.Add("New: Pumpkin Spice Cake 🎃");
+            CommunityFeedList.Items.Add("Popular: Vegan Tacos 🌮");
+            CommunityFeedList.Items.Add("Trending: Thai Green Curry 🍛");
+        }
+
+        private void ViewFeaturedRecipe_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Viewing full recipe for Spaghetti Carbonara");
+        }
+
+        private void GoToProfile_Click(object sender, RoutedEventArgs e)
+        {
+            ProfilePage profilePage = new ProfilePage();
+            profilePage.Show();
+            this.Close();
+        }
+
+        private void GoToSettings_Click(object sender, RoutedEventArgs e)
+        {
+            SettingPage settingsPage = new SettingPage();
+            settingsPage.Show();
+            this.Close();
+        }
+
+        private void GoToUpload_Click(object sender, RoutedEventArgs e)
+        {
+            RecipeUploadPage uploadPage = new RecipeUploadPage();
+            uploadPage.Show();
+            this.Close();
+        }
+
+        private void GoToMainPage_Click(object sender, RoutedEventArgs e)
+        {
+            MainPage mainPage = new MainPage();
+            mainPage.Show();
+            this.Close();
         }
 
     }
