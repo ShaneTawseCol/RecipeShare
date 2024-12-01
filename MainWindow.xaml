@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:RecipeShare"
         mc:Ignorable="d"
         Title="MainWindow" Height="999" Width="1744">
-    <Grid Margin="0,0,0,-6">
+    <Grid Margin="0,0,0,-6" RenderTransformOrigin="0.538,0.371">
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="#FF00FBFF" Offset="0.091"/>
@@ -34,11 +34,12 @@
             </Button.Background>
         </Button>
         <Label Content="Recipe-Share Secure User Login" Height="113" Margin="445,46,0,0" Width="974" FontSize="72" VerticalAlignment="Top" HorizontalAlignment="Left" FontFamily="Amiri"/>
-        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/vector-group-people-icon.jpg" Margin="285,334,1372,583" />
-        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/keyslock.png" Margin="891,335,781,582" />
-        <TextBox HorizontalAlignment="Left" Height="57" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152"/>
-        <Button Content="Login" HorizontalAlignment="Left" Height="58" Margin="14,107,0,0" VerticalAlignment="Top" Width="148" RenderTransformOrigin="7.454,0.631" IsEnabled="False"/>
-        <Label Content="ADMIN" HorizontalAlignment="Left" Height="30" Margin="12,72,0,0" VerticalAlignment="Top" Width="150" FontSize="16" FontFamily="Amiri"/>
 
+
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/vector-group-people-icon.jpg" Margin="285,335,1372,581" />
+        <Image Source="pack://application:,,,/RemotePatientMonitoring;component/RecipeImages/keyslock.png" Margin="896,335,776,582" />
+        <Button Content="Login" HorizontalAlignment="Left" Height="57" Margin="10,102,0,0" VerticalAlignment="Top" Width="111" FontFamily="Amiri" FontSize="18"/>
+        <Label Content="ADMIN" HorizontalAlignment="Left" Height="39" Margin="10,63,0,0" VerticalAlignment="Top" Width="111" FontFamily="Amiri" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="53" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="111"/>
     </Grid>
 </Window>

@@ -80,9 +80,6 @@
     <Compile Include="ProfilePage.xaml.cs">
       <DependentUpon>ProfilePage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="RecipeViewWindow.xaml.cs">
-      <DependentUpon>RecipeViewWindow.xaml</DependentUpon>
-    </Compile>
     <Compile Include="SettingPage.xaml.cs">
       <DependentUpon>SettingPage.xaml</DependentUpon>
     </Compile>
@@ -106,9 +103,6 @@
     </Compile>
     <Page Include="ProfilePage.xaml">
       <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="RecipeViewWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="SettingPage.xaml">
@@ -155,45 +149,24 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="RecipeImages\1000_F_549967074_1pyqanI4qIWhTcp0SX2azujGtBH8lgwq.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="RecipeImages\Blank diagram - Page 4 %2813%29.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="RecipeImages\keyslock.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="RecipeImages\vector-group-people-icon.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\colorful-pizza-salad-does-not-contain-yeast-dish-prepared-baked-flatbread-vegetables-herbs-cheese-sauces-333725473.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\depositphotos_240182574-stock-photo-cheesecake-assortment-blueberry-mint.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\depositphotos_243811532-stock-illustration-decadent-cupcake-symphony-high-quality.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\depositphotos_466880912-stock-photo-colorful-bright-tasty-macarons-beautiful.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\istockphoto-673909238-612x612.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\stock-photo-grilled-meat-steak-on-stainless-grill-depot-with-flames-on-dark-background-food-and-cuisine-2203020861.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RecipeImages\vegetarian-meal-of-vegetable-pizza-and-green-salad-B5GG5P.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="RecipeImages\spaghetti-carbonara.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="RecipeImages\variety-of-different-cultural-dishes-in-table-of-indian-top-view-2G3J6KT.jpg" />
+    <Resource Include="RecipeImages\colorful-pizza-salad-does-not-contain-yeast-dish-prepared-baked-flatbread-vegetables-herbs-cheese-sauces-333725473.jpg" />
+    <Resource Include="RecipeImages\depositphotos_240182574-stock-photo-cheesecake-assortment-blueberry-mint.jpg" />
+    <Resource Include="RecipeImages\depositphotos_243811532-stock-illustration-decadent-cupcake-symphony-high-quality.jpg" />
+    <Resource Include="RecipeImages\istockphoto-673909238-612x612.jpg" />
+    <Resource Include="RecipeImages\stock-photo-grilled-meat-steak-on-stainless-grill-depot-with-flames-on-dark-background-food-and-cuisine-2203020861.jpg" />
+    <Resource Include="RecipeImages\variety-of-different-cultural-dishes-in-table-of-indian-food-plates-pizzasalad-rice-meat-vegetables-food-panorama-top-view-2G3J6KT.jpg" />
+    <Resource Include="RecipeImages\vegetarian-meal-of-vegetable-pizza-and-green-salad-B5GG5P.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="recipes.txt" />
+    <Resource Include="RecipeImages\depositphotos_466880912-stock-photo-colorful-bright-tasty-macarons-beautiful.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -1,14 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\GregGit\\",
+  "WorkspaceRootPath": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\greggit\\remotepatientmonitoring\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\iteration2progressmonitorig\\recipeshare-main\\remotepatientmonitoring\\recipeviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\recipeviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\iteration2progressmonitorig\\recipeshare-main\\remotepatientmonitoring\\recipeviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\recipeviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\uploadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\uploadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\uploadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\uploadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\iteration2progressmonitorig\\recipeshare-main\\remotepatientmonitoring\\recipeviewwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\recipeviewwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainpageuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainpageuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\iteration2progressmonitorig\\recipeshare-main\\remotepatientmonitoring\\settingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\settingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\ProfilePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProfilePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainpageuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainpageuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\greggit\\remotepatientmonitoring\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\remotepatientmonitoring\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|c:\\users\\shane\\documents\\software development project 1\\iteration2progressmonitorig\\recipeshare-main\\remotepatientmonitoring\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D82308FD-4BCD-420A-958C-3E8FA78214E8}|RemotePatientMonitoring\\RecipeShare.csproj|solutionrelative:remotepatientmonitoring\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +70,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeViewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\RecipeViewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\RecipeViewWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:32:00.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\GregGit\\RemotePatientMonitoring\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\GregGit\\RemotePatientMonitoring\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RemotePatientMonitoring\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T22:33:53.32Z",
+              "Title": "RecipeViewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T21:29:13.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "RecipeViewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\RecipeViewWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T21:26:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\App.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\App.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\App.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T21:04:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPage.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\MainPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:28:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\UploadPage.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\UploadPage.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\UploadPage.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\UploadPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T22:15:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\UploadPage.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\UploadPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\UploadPage.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\UploadPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:16:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\SettingPage.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\SettingPage.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\SettingPage.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\SettingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T16:26:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:37:32.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPageUser.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPageUser.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainPageUser.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPageUser.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\MainPageUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T21:17:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\SettingPage.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\SettingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\SettingPage.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\SettingPage.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:28:09.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPage.xaml",
+              "RelativeToolTip": "RemotePatientMonitoring\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T21:34:11.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPageUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPageUser.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainPageUser.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainPageUser.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\MainPageUser.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwDcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:18:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RemotePatientMonitoring\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:33:53.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\GregGit\\RemotePatientMonitoring\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RemotePatientMonitoring\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\GregGit\\RemotePatientMonitoring\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shane\\Documents\\Software Development Project 1\\Iteration2ProgressMonitorig\\RecipeShare-main\\RemotePatientMonitoring\\MainWindow.xaml",
               "RelativeToolTip": "RemotePatientMonitoring\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-03T22:33:34.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T22:33:34.235Z"
             }
           ]
         }
