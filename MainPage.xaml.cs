@@ -1,6 +1,5 @@
-﻿using System;
-using System.Configuration;
-using System.Windows;
+﻿using System.Windows;
+using System.Windows.Media.Animation;
 
 namespace RecipeShare
 {
@@ -9,39 +8,41 @@ namespace RecipeShare
         public MainPage()
         {
             InitializeComponent();
+            StartImageCarousel();
         }
 
+        private void StartImageCarousel()
+        {
+            Storyboard storyboard = (Storyboard)this.FindResource("ImageAnimation");
+            storyboard.Begin();
+        }
 
         private void MainPageUser_Click(object sender, RoutedEventArgs e)
         {
-            MainPageUser mainPageUser = new MainPageUser();           
+            MainPageUser mainPageUser = new MainPageUser();
             mainPageUser.Show();
-            this.Close();// Navigates to Page2
+            this.Close(); // Navigates to MainPageUser
         }
-
-
 
         private void SettingPage_Click(object sender, RoutedEventArgs e)
         {
             SettingPage settings = new SettingPage();
             settings.Show();
-            this.Close();// Navigates to Page3
+            this.Close(); // Navigates to SettingPage
         }
 
         private void ProfilePage_Click(object sender, RoutedEventArgs e)
         {
             ProfilePage profile = new ProfilePage();
-           profile.Show();
-            this.Close();// Navigates to Page4
+            profile.Show();
+            this.Close(); // Navigates to ProfilePage
         }
 
         private void UploadPage_Click(object sender, RoutedEventArgs e)
         {
-            UploadPage upload = new UploadPage();
+            RecipeUploadPage upload = new RecipeUploadPage();
             upload.Show();
-            this.Close();// Navigates to Page5
+            this.Close(); // Navigates to UploadPage
         }
-
-        //private void MyVideo_MediaEnded(object sender, RoutedEventArgs e) { MyVideo.Position = TimeSpan.Zero; MyVideo.Play(); }//Future ADS
     }
 }
