@@ -1,1 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<Window x:Class="RecipeShare.RecipeViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RecipeViewWindow" Height="450" Width="800">
+	<Grid>
+		<TextBox x:Name="RecipeContentTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" TextWrapping="Wrap" IsReadOnly="True"/>
+	</Grid>
+</Window>

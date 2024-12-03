@@ -20,13 +20,14 @@
             <Button Content="Go to Home" HorizontalAlignment="Left" Margin="0,10,0,0" Padding="10" Width="120" Click="GoToHomePage_Click"/>
             <TextBlock Text="Preferences" FontSize="24" FontWeight="SemiBold" Foreground="White" Margin="0,20,0,5"/>
             <StackPanel Orientation="Vertical">
-                <CheckBox Content="Vegetarian" FontSize="16" Margin="0,5" Foreground="White"/>
-                <CheckBox Content="Vegan" FontSize="16" Margin="0,5" Foreground="White"/>
-                <CheckBox Content="Gluten-Free" FontSize="16" Margin="0,5" Foreground="White"/>
-                <CheckBox Content="Dairy-Free" FontSize="16" Margin="0,5" Foreground="White"/>
-                <CheckBox Content="Nut-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Name="VegetarianCheckBox" Content="Vegetarian" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Name="VeganCheckBox" Content="Vegan" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Name="GlutenFreeCheckBox" Content="Gluten-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Name="DairyFreeCheckBox" Content="Dairy-Free" FontSize="16" Margin="0,5" Foreground="White"/>
+                <CheckBox Name="NutFreeCheckBox" Content="Nut-Free" FontSize="16" Margin="0,5" Foreground="White"/>
             </StackPanel>
-            
+
+
             <Button Content="Save Preferences" HorizontalAlignment="Left" Margin="0,20,0,0" Padding="10" Width="109" Click="SavePreferences_Click"/>
         </StackPanel>
     </Grid>
