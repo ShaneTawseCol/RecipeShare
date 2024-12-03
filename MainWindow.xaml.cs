@@ -9,33 +9,32 @@ namespace RecipeShare
     public partial class MainWindow : Window
     {
         private SQLiteConnection sqliteConnection;
-        private const string adminPassword = "cats";
-        private readonly string encryptedAdminPassword;
 
         public MainWindow()
         {
             InitializeComponent();
             InitializeDatabase();
-            encryptedAdminPassword = EncryptPassword(adminPassword); // Encrypt the admin password on initialization
         }
 
-        private void AdminLoginbtn_Click(object sender, RoutedEventArgs e)
+        // Initialize SQLite database
+        private void InitializeDatabase()
         {
-            string inputPassword = AdminPasswordBox.Password; // Get the password from PasswordBox
-            string encryptedInputPassword = EncryptPassword(inputPassword);
+            string dbPath = "Data Source=recipeShareDB.db;Version=3;";
+            sqliteConnection = new SQLiteConnection(dbPath);
 
-            if (encryptedInputPassword == encryptedAdminPassword)
+            sqliteConnection.Open();
+
+            string createTableQuery = @"CREATE TABLE IF NOT EXISTS Users (
+                                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                        Username TEXT NOT NULL UNIQUE,
+                                        Password TEXT NOT NULL)";
+            using (SQLiteCommand command = new SQLiteCommand(createTableQuery, sqliteConnection))
             {
-                UserAccess userAccess = new UserAccess();
-                userAccess.Show();
-                this.Close();
-            }
-            else
-            {
-                MessageBox.Show("Invalid admin password", "Login Failed", MessageBoxButton.OK, MessageBoxImage.Error);
+                command.ExecuteNonQuery();
             }
         }
 
+        // Login button click event handler
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
             string username = UsernameTextBox.Text;
@@ -55,6 +54,7 @@ namespace RecipeShare
             }
         }
 
+        // Create User button click event handler
         private void CreateUserButton_Click(object sender, RoutedEventArgs e)
         {
             string username = UsernameTextBox.Text;
@@ -77,47 +77,6 @@ namespace RecipeShare
             else
             {
                 MessageBox.Show("Username already exists. Please choose a different one.", "Registration Failed", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
-        }
-
-        // Initialize SQLite database and ensure the UsageTime column is present
-        private void InitializeDatabase()
-        {
-            string dbPath = "Data Source=recipeShareDB.db;Version=3;";
-            sqliteConnection = new SQLiteConnection(dbPath);
-
-            sqliteConnection.Open();
-
-            string createTableQuery = @"CREATE TABLE IF NOT EXISTS Users (
-                                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                                        Username TEXT NOT NULL UNIQUE,
-                                        Password TEXT NOT NULL)";
-            using (SQLiteCommand command = new SQLiteCommand(createTableQuery, sqliteConnection))
-            {
-                command.ExecuteNonQuery();
-            }
-
-            // Add the UsageTime column if it doesn't exist
-            string addColumnQuery = @"ALTER TABLE Users ADD COLUMN UsageTime INTEGER DEFAULT 0";
-            try
-            {
-                using (SQLiteCommand command = new SQLiteCommand(addColumnQuery, sqliteConnection))
-                {
-                    command.ExecuteNonQuery();
-                }
-            }
-            catch (SQLiteException ex)
-            {
-                // Check if the error is because the column already exists
-                if (ex.Message.Contains("duplicate column name"))
-                {
-                    // Column already exists, no further action needed
-                }
-                else
-                {
-                    // Handle other exceptions
-                    throw;
-                }
             }
         }
 
@@ -152,7 +111,7 @@ namespace RecipeShare
         // Create a new user in the database
         private bool CreateUserInDatabase(string username, string encryptedPassword)
         {
-            string insertQuery = "INSERT INTO Users (Username, Password, UsageTime) VALUES (@username, @password, 0)";
+            string insertQuery = "INSERT INTO Users (Username, Password) VALUES (@username, @password)";
             try
             {
                 using (SQLiteCommand command = new SQLiteCommand(insertQuery, sqliteConnection))
@@ -183,5 +142,6 @@ namespace RecipeShare
                 sqliteConnection.Close();
             }
         }
+
     }
 }
